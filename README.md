@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalhando em projetos pessoais
 - 🌱 Estudando Javascript (JS)
-- 📫 Como entrar em contato comigo: Carlosedugarcia2805@gmail.com
+- 📫 Como entrar em contato comigo: Contato.carloseduardogarcia@gmail.com
 
  <div>
   <a href="https://github.com/carlosgarciasouza">
