@@ -4,9 +4,10 @@
 - 🌱 Estudando Javascript (JS)
 - 📫 Como entrar em contato comigo: Contato.carloseduardogarcia@gmail.com
 
- <div>
+ <div style = "display: inline-block">
   <a href="https://github.com/carlosgarciasouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosgarciasouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgarciasouza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -17,6 +18,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   </div>
+ 
   
   ##
 
