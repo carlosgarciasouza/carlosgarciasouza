@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Carlos!
 
-- 🔭 Atualmente trabalhando em projetos pessoais
-- 🌱 Estudando Javascript (JS)
+- 🔭 Atualmente trabalhando em Copersucar
+- 🌱 Estudando Javascript (JS) | .NET | VBA | RPA
 - 📫 Como entrar em contato comigo: Contato.carloseduardogarcia@gmail.com
 
  <div>
