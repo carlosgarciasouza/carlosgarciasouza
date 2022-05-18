@@ -30,3 +30,8 @@
  
 </div>
   </div>
+ <br>
+ 
+ ### 🎧 Listen Now in Spotify:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dudu_28&cover_image=false&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=dudu_28&redirect=true)
+
