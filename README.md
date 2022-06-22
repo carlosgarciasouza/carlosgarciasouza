@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Carlos!
 
 - 🔭 Atualmente trabalhando em Copersucar
-- 🌱 Estudando Javascript (JS) | .NET | VBA | RPA
+- 🌱 Estudando Javascript (JS) | Desenvolvimento de RPA com Uipath
 - 📫 Como entrar em contato comigo: Contato.carloseduardogarcia@gmail.com
 
  <div>
